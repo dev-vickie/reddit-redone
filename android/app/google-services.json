@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174272372717",
+    "project_id": "reddit-184a2",
+    "storage_bucket": "reddit-184a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174272372717:android:cbc01b38fe738cfd5811e4",
+        "android_client_info": {
+          "package_name": "com.vickie.reddit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174272372717-us8vipvv11b7bigkl8ho2qgto50g3v3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJ0KBBeTft4eq2MgePmBP69YQSiISTzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174272372717-us8vipvv11b7bigkl8ho2qgto50g3v3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
