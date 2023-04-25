@@ -91,21 +91,7 @@ class UserProfileScreen extends ConsumerWidget {
                 ];
               },
               body: const SizedBox(),
-              // body: ref.watch(getUserPostsProvider(uid)).when(
-              //       data: (data) {
-              //         return ListView.builder(
-              //           itemCount: data.length,
-              //           itemBuilder: (BuildContext context, int index) {
-              //             final post = data[index];
-              //             return PostCard(post: post);
-              //           },
-              //         );
-              //       },
-              //       error: (error, stackTrace) {
-              //         return ErrorText(error: error.toString());
-              //       },
-              //       loading: () => const Loader(),
-              //     ),
+
             ),
             error: (error, stackTrace) => ErrorText(error: error.toString()),
             loading: () => const Loader(),
